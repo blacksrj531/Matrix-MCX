@@ -12,7 +12,7 @@
 # ⚡ Matrix MCX — Next-Gen Cyber-Cinema Media Center
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blacksrj531/Matrix-MCX/main/assets/branding/matrix_banner.png" alt="Matrix MCX Banner" width="100%" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/blacksrj531/Matrix-MCX/main/MatrixMcx_Concept.png" alt="Matrix MCX Banner" width="100%" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
