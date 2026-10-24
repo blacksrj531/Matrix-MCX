@@ -9,49 +9,91 @@
 
 ---
 
-## Overview
+# ⚡ Matrix MCX — Next-Gen Cyber-Cinema Media Center
 
-**Matrix MCX** is a modern, high-performance multimedia runtime engineered to bridge legacy living room aesthetic philosophies with next-generation local processing architectures. Built with a focus on fluid GPU pipelines, near-zero audio latency, and low-overhead peer transfers, Matrix MCX delivers a cohesive, cinema-grade experience across mobile and embedded displays.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blacksrj531/Matrix-MCX/main/assets/branding/matrix_banner.png" alt="Matrix MCX Banner" width="100%" onerror="this.style.display='none'"/>
+</p>
 
----
+<p align="center">
+  <strong>The Ultimate Hardware-Accelerated Cybernetic Entertainment Hub for Android</strong><br>
+  <em>Engineered for Cinematic Elegance • Built on Bare-Metal Native Performance • Fortified with Military-Grade Anti-Tamper Security</em>
+</p>
 
-## Tech Stack & Architecture
-
-- **Core Framework:** [Flutter](https://flutter.dev) (High-refresh rendering pipeline, Custom GPU Shaders & Canvas animations)
-- **Language:** [Dart](https://dart.dev) (Asynchronous microtasks, custom streams, isolate-based concurrency)
-- **Native Platform Layer:** [Kotlin / Android NDK](https://developer.android.com) (SurfaceTexture hardware video decoding via `MediaCodec`, zero-copy buffers)
-- **Acoustic Subsystem:** Native Android `SoundPool` engine with synthesized high-fidelity PCM audio wave structures for instant tactile feedback
-- **Networking & I/O:** Multi-tier asynchronous socket pipelines, UDP beaconing, and high-throughput local HTTP streaming bridges
-
----
-
-## Key Engineering Highlights
-
-- **Hardware Acceleration:** Zero-copy native video rendering paths directly bound to OpenGL/Vulkan surfaces.
-- **Micro-Latency Tactile Architecture:** Millisecond-accurate haptic feedback married to synchronous acoustic triggers.
-- **Adaptive Ambient Engine:** Real-time canvas lighting effects synchronized with device telemetry and temporal cycles.
-- **Decentralized Local Pipelines:** High-speed peer data exchange operating independently of external cloud dependencies.
+<p align="center">
+  <a href="https://github.com/blacksrj531/Matrix-MCX/releases/latest"><img src="https://img.shields.io/badge/Release-v1.0.0-00E5FF?style=for-the-badge&logo=android&logoColor=black" alt="Latest Release"/></a>
+  <a href="https://blacksrj531.github.io/my_portfolio_531/"><img src="https://img.shields.io/badge/Developer-BLACKSRJ531-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Developer Portfolio"/></a>
+  <img src="https://img.shields.io/badge/Architecture-C%2B%2B%20%2F%20Kotlin%20%2F%20Flutter-FF007F?style=for-the-badge" alt="Technology"/>
+  <img src="https://img.shields.io/badge/Security-Hardware%20Tamper--Proof-00E676?style=for-the-badge" alt="Security Shield"/>
+</p>
 
 ---
 
-## Getting Started
+## 🌟 What is Matrix MCX?
 
-### Prerequisites
+**Matrix MCX** is not just another media player — it is a **luxury cybernetic multimedia console** that turns your Android phone, tablet, or TV into an elite, high-velocity entertainment deck.
 
-- Help of Artificial Intelligence but maintaining securities
-- Flutter SDK `^3.x`
-- Dart SDK `^3.x`
-- Android Studio / Android SDK (API 35+)
+Inspired by the iconic Windows Media Center and fused with a futuristic, sapphire-glass cyberpunk interface, **Matrix MCX** gives you:
+- Ultra-smooth 120 FPS navigation with zero stutter.
+- Instant, cinema-quality video playback with hardware resume.
+- A glowing vinyl turntable music engine.
+- Instant access to live radio streams across all 50 US states.
+- High-speed wireless file sharing and a built-in power file manager.
+- Zero battery drain, zero bloated background trackers, and zero ads.
 
-### Installation & Build
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/matrix-mcx.git
-cd matrix-mcx
+## 🚀 Why Matrix MCX Outperforms Everything Else
 
-# Fetch dependencies
-flutter pub get
+Most standard media apps rely on sluggish web-views or unoptimized stock engines that stutter when browsing large movie collections and drain your battery. 
 
-# Build Release APK
-flutter build apk --release
+**Matrix MCX was engineered differently from the silicon up:**
+
+| Feature | Standard Media Apps | ⚡ Matrix MCX |
+| :--- | :--- | :--- |
+| **User Interface** | Cluttered, generic flat design | **Futuristic Cyber-Cinema Glass Ribbon (120 FPS)** |
+| **Video Engine** | CPU-heavy software decoders | **Direct GPU SurfaceTexture hardware rendering** |
+| **Music Player** | Basic list view | **Animated cyber turntable with reactive wave feedback** |
+| **Live Radio** | Region-locked or full of ads | **All 50 US States live streams with zero interruptions** |
+| **File Sharing** | Slow Bluetooth or cloud upload | **Local hardware-speed Matrix Beam & Wi-Fi Web Server** |
+| **Security & Privacy** | Sells telemetry, easily cracked | **Native C++ cryptographic barrier & anti-tamper shield** |
+| **File Manager** | Basic viewer | **High-velocity file suite with storage cleaner & 7 sort modes** |
+
+---
+
+## ✨ Flagship Capabilities & Features
+
+### 🎬 1. Cyber-Cinema Hardware Video Deck
+- **Direct GPU Texture Rendering:** Decodes 4K, 1080p, and high-bitrate MKV/MP4 files straight on your device’s display silicon.
+- **Smart Resume Memory:** Never lose your spot. Matrix MCX automatically saves your exact timestamp for every movie and show.
+- **Gesture Scrubbing:** Dynamic double-tap seeking (backward/forward) with responsive glowing cyber-ripples.
+- **Picture-in-Picture (PiP):** Keep watching while chatting or browsing other apps.
+
+### 🎵 2. Audiophile Cyber Turntable
+- **Living Vinyl Visualizer:** High-fidelity audio playback with a rotating cyber-vinyl engine.
+- **Micro-Scrub Slider:** Jump precisely to any second of a track with live milliseconds feedback.
+- **Smart Queueing:** Automatic seamless track progression with low-latency hardware decoding.
+
+### 📻 3. United States All-Region Live Radio
+- **50-State Live Coverage:** Tune in to stations from California, New York, Texas, Florida, Washington, and every other state.
+- **Zero-Drop Architecture:** Powered by real-time server directories with pre-cached high-definition live fallbacks.
+- **Interactive Tuner Dial:** Futuristic cyber dial displaying real-time stream bitrate, frequency, and broadcast location.
+
+### ⚡ 4. High-Velocity File Manager & Storage Cleaner
+- **Full Scoped Storage Architecture:** Browse internal storage and SD cards without Android permission roadblocks.
+- **One-Tap Smart Cleaner:** Instantly finds and cleans empty folders, temporary files, old logs, and orphaned APK packages.
+- **7 Precision Sorting Modes:** Organize by Name (A-Z / Z-A), Date (Newest / Oldest), Size (Largest / Smallest), or File Type.
+- **Built-in ZIP Archiving:** Extract and create ZIP archives directly inside the app with non-blocking progress alerts.
+
+### 🌐 5. Matrix Beam & Local Web Server
+- **Zero-Data Local Sharing:** Share massive 4K videos and music albums to PC, iPhone, Mac, or smart TVs over local Wi-Fi without using mobile internet.
+- **Matrix Beam:** Automatic peer-to-peer device discovery for instant local transfers.
+
+### 🔄 6. One-Tap In-App Auto Updater
+- Connected straight to the official GitHub Release channel. Matrix MCX checks for updates on launch and lets you download and install the latest version with one click.
+
+---
+
+## 🛡️ Fortified Security Architecture
+
+Matrix MCX is protected by an enterprise-grade multi-layer security engine designed to defend against decompilation, cloning, and malicious tampering:
