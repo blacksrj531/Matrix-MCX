@@ -97,3 +97,49 @@ Most standard media apps rely on sluggish web-views or unoptimized stock engines
 ## 🛡️ Fortified Security Architecture
 
 Matrix MCX is protected by an enterprise-grade multi-layer security engine designed to defend against decompilation, cloning, and malicious tampering:
+
+- **Cryptographic Signature Verification:** The app validates its own cryptographic SHA-256 release certificate on startup. If an unauthorized party decompiles, modifies, or re-signs the APK, the tamper switch terminates the process instantly.
+- **Anti-Frida & Anti-Hooking:** Actively inspects process memory maps (`/proc/self/maps`) and debug socket ports to detect memory injection or API interception tools.
+- **Anti-Debugging TracerPid Inspection:** Detects attached debuggers (`ptrace`, GDB, LLDB) and halts execution to protect intellectual property.
+- **Zero Telemetry:** Matrix MCX operates locally on your device. Your files, media history, and private data remain strictly on your phone.
+
+---
+
+## 🛠️ The Technology Stack
+
+Matrix MCX is crafted using top-tier software engineering principles:
+
+- **Core Framework:** Google Flutter (Dart 3.7+ Engine, Impeller GPU rendering pipeline)
+- **Native Android Layer:** Kotlin & Modern Coroutines
+- **Hardware Acceleration:** Native Android `MediaPlayer` / `SurfaceTexture` JNI integration
+- **Audio Synthesis:** `SoundPool` native memory sound effects with custom DSP-rendered waveforms
+- **Security Binary:** Native C++ ELF shared library (`matrix_shield.so`) compiled via Android NDK
+- **Networking:** Asynchronous non-blocking HTTP daemon & UDP socket broadcast engine
+
+---
+
+## 📲 How to Download & Install
+
+1. Go to the [**Official GitHub Releases Page**](https://github.com/blacksrj531/Matrix-MCX/releases/latest).
+2. Download the latest `MatrixMCX-v1.0.0.apk`.
+3. Open the downloaded file on your Android device and tap **Install**.
+4. Launch Matrix MCX and experience the next generation of mobile entertainment!
+
+> **System Requirements:**
+> - Android 8.0 (Oreo) or higher (Optimized for Android 13, 14, and 15)
+> - Works on all modern Android Phones, Foldables, Tablets, and Android TV / Emulators.
+
+---
+
+## ⚖️ Intellectual Property Notice & Legal Disclaimer
+
+```text
+Matrix MCX © 2026 Developed & Maintained by BLACKSRJ531. All Rights Reserved.
+
+NOTICE TO RE-DISTRIBUTORS, CLONERS, AND VIBE-CODERS:
+The architectural concepts, security implementations, UI ribbons, sound synthesis engines, 
+and native hardware integrations within this project represent proprietary engineering. 
+
+This software includes active binary self-defense mechanisms. Unauthorized decompilation, 
+repackaging, or distributing cracked/modified variations is strictly prohibited and will 
+fail runtime cryptographic integrity validation.
