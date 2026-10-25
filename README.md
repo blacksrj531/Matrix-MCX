@@ -23,10 +23,6 @@ Choose the APK matching your device:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blacksrj531/Matrix-MCX/main/MatrixMCX_Logo_Symbol.png" alt="Matrix MCX Banner" width="100%" onerror="this.style.display='none'"/>
-</p>
-
-<p align="center">
   <strong>The Ultimate Hardware-Accelerated Cybernetic Entertainment Hub for Android</strong><br>
   <em>Engineered for Cinematic Elegance • Built on Bare-Metal Native Performance • Fortified with Military-Grade Anti-Tamper Security</em>
 </p>
