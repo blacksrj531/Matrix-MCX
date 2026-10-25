@@ -4,13 +4,13 @@
 
 Choose the APK matching your device:
 
-* **[Download for Most Modern Phones (arm64-v8a)] (20.6 MB) — ⭐ Recommended**
+* **[Download for Most Modern Phones (arm64-v8a)] — ⭐ Recommended**
   *Compatible with: Redmi, Samsung, Xiaomi, OnePlus, Pixel, Motorola (Android 9.0+)*
 
-* **[Download for Older / 32-bit Devices (armeabi-v7a)] (17.8 MB)**
+* **[Download for Older / 32-bit Devices (armeabi-v7a)]**
   *Compatible with: Older budget phones, legacy Android TV boxes, TV sticks.*
 
-* **[Download Universal APK (All CPUs)] (56.3 MB)**
+* **[Download Universal APK (All CPUs)]**
   *Contains all architectures in one file. Choose this if you are unsure.*
 
 > High-Performance Ambient Interface & Local Media Subsystem
