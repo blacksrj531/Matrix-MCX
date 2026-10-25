@@ -1,4 +1,17 @@
-# Matrix MCX
+# ⚡ Matrix MCX — Next-Gen Cyber-Cinema Media Center
+
+### 📥 Download Matrix MCE
+
+Choose the APK matching your device:
+
+* **[Download for Most Modern Phones (arm64-v8a)] (20.6 MB) — ⭐ Recommended**
+  *Compatible with: Redmi, Samsung, Xiaomi, OnePlus, Pixel, Motorola (Android 9.0+)*
+
+* **[Download for Older / 32-bit Devices (armeabi-v7a)] (17.8 MB)**
+  *Compatible with: Older budget phones, legacy Android TV boxes, TV sticks.*
+
+* **[Download Universal APK (All CPUs)] (56.3 MB)**
+  *Contains all architectures in one file. Choose this if you are unsure.*
 
 > High-Performance Ambient Interface & Local Media Subsystem
 
@@ -8,8 +21,6 @@
 [![Android](https://img.shields.io/badge/Android-16_Ready-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 
 ---
-
-# ⚡ Matrix MCX — Next-Gen Cyber-Cinema Media Center
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/blacksrj531/Matrix-MCX/main/MatrixMCX_Logo_Symbol.png" alt="Matrix MCX Banner" width="100%" onerror="this.style.display='none'"/>
